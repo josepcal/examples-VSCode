@@ -1,4 +1,4 @@
 class a {
 
-    boolean a = true => false; 
+    boolean a = true != false; 
 }
