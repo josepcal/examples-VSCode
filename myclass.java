@@ -3,7 +3,7 @@ public class myclass {
         System.err.println("hi there");
         for (int i =1; i<=10; i++){
 
-            System.out.println("iteraciion + " +i);
+            System.out.println("iteracion + " +i);
         }
 
     }
